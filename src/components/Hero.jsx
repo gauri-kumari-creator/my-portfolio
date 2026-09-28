@@ -15,7 +15,7 @@ const Hero = () => {
 
       <div className='mt-5 flex flex-col sm:flex-row justify-center md:justify-start gap-3'>
       <a href='/resume.pdf' target='_blank' rel='noreferrer' className='bg-transparent border border-purple-400 text-purple-300  px-6 py-3 rounded-lg hover:bg-purple-500 hover:text-white mx-4'>Resume</a>
-      <a href='https://github.com/gauri-kumari-creator' target='_blank' rel='noreferrer' className='inline-flex gap-2 bg-transparent  border border-purple-400 text-purple-300 sm:flex-row justify-center  px-6 py-3 rounded-lg hover:bg-purple-500 hover:text-white'><UserIcon className='h-5 w-5'/>GitHub</a>
+      <a href='https://github.com/gauri-kumari-creator' target='_blank' rel='noreferrer' className='inline-flex gap-2 bg-transparent  border border-purple-400 text-purple-300 sm:flex-row justify-center px-6 py-3 rounded-lg hover:bg-purple-500 hover:text-white'><UserIcon className='h-5 w-5'/>GitHub</a>
       </div>
       </div>
     </div>
